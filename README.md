@@ -7,7 +7,7 @@ This project demonstrates DOM manipulation, toggle functionality, and attention 
 
 ## 🌐 Live Demo
 
-[![Website Preview](assets/images/model.avif)](https://your-username.github.io/add-friend/)
+[![Website Preview](assets/images/model.avif)](https://nufail-01.github.io/Add-Friend/)
 
 ---
 
