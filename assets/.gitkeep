@@ -1,0 +1,3 @@
+This .gitkeep file is intentionally added to ensure the 'assets' directory is tracked by Git, even if it contains no files.
+
+Git does not track empty folders by default. You can safely delete this file once the directory contains actual content.
